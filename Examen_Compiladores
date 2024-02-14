@@ -90,3 +90,7 @@ resultados_frame = tk.Frame(panel_resultados, bg='white')
 resultados_frame.grid(row=0, column=0)
 
 ventana_principal.mainloop()
+
+
+
+
